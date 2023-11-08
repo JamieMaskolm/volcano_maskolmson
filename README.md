@@ -30,10 +30,6 @@ SPACE = Jump
 
 
 
-table>
-  <tr>
-    <td><img src="https://imgur.com/K2ex9wk" alt="Bild 1"></td>
-    <td><img src="https://imgur.com/mXQMvcx" alt="Bild 2"></td>
-  </tr>
-</table>
+<img src="https://imgur.com/K2ex9wk" alt="Bild 1">
+<img src="https://imgur.com/mXQMvcx" alt="Bild 1">
 
