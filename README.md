@@ -10,13 +10,13 @@ My team and I only had a limited amount of time to develop the games. This almos
 
 Controls:
 
-▶ = Left
+▶️ = Left
 
-◀ = Right
+◀️ = Right
 
-▲ = Up
+🔼 = Up
 
-▼ = Down
+🔽 = Down
 
 SPACE = Jump
 
