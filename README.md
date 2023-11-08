@@ -30,8 +30,8 @@ SPACE = Jump
 
 
 
-<a href="[photo1.jpg](https://imgur.com/xhBLXri)" style="float:left; margin-right:10px;">
-<a href="[photo2.jpg](https://imgur.com/mXQMvcx)" style="float:left;">
+<img src="[photo1.jpg](https://imgur.com/xhBLXri)" style="float:left; margin-right:10px;">
+<img src="[photo2.jpg](https://imgur.com/mXQMvcx)" style="float:left;">
 
 
 
