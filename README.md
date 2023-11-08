@@ -8,7 +8,7 @@
 **How was it created?**
 
 VOLCANO is a game that was created during my first semester at  University.<br>
-We had to develop 2 polygon-like games in Python (Pygame) in the Software Development module.<br>
+We had to develop 2 polygon-like games in Python (Pygame)<br> in the Software Development module.<br>
 
 My team and I only had a limited amount of time to develop the games. <br>
 This almost meant that we couldn't finish the project before the deadline, <br>
