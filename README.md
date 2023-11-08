@@ -1,6 +1,9 @@
 # volcano_maskolmson
 2D Action/Adventure and Platformer Game
 
+<a href="https://imgur.com/xhBLXri"><img src="https://i.imgur.com/xhBLXril.png" title="source: imgur.com" /></a>
+
+
 **How was it created?**
 
 VOLCANO is a game that was created during my first semester at  University.
@@ -30,7 +33,6 @@ SPACE = Jump
 
 
 
-<a href="https://imgur.com/xhBLXri"><img src="https://i.imgur.com/xhBLXril.png" title="source: imgur.com" /></a>
 
 
 
