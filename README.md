@@ -29,6 +29,9 @@ SPACE = Jump
 *Many thanks to our friends and all the others who have helped us with this project!*
 
 
-<a href="https://imgur.com/xhBLXri"><img src="https://i.imgur.com/xhBLXri.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/mXQMvcx"><img src="https://i.imgur.com/mXQMvcx.png" title="source: imgur.com" /></a>
+
+<a href="[photo1.jpg](https://imgur.com/xhBLXri)" style="float:left; margin-right:10px;">
+<a href="[photo2.jpg](https://imgur.com/mXQMvcx)" style="float:left;">
+
+
 
