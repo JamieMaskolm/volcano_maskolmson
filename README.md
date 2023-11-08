@@ -27,3 +27,6 @@ SPACE = Jump
 *Feel free to write us comments or give feedback if something is not working well so we can fix it.*
 
 *Many thanks to our friends and all the others who have helped us with this project!*
+
+
+<img src="C:\Users\jamie\sciebo2\HS Niederrhein\1.Semester\Kurse\BCSM_103_Softwareentwicklung\Hausarbeit\Backup_Hausarbeit\Buttons\Volcano_Button.png" alt="Screenshot">
