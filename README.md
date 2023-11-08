@@ -1,7 +1,7 @@
 # volcano_maskolmson
 2D Action/Adventure and Platformer Game
 
-How was it created?
+**How was it created?**
 
 VOLCANO is a game that was created during my first semester at  University.
 We had to develop 2 polygon-like games in Python (Pygame) in the Software Development module.
@@ -10,13 +10,13 @@ My team and I only had a limited amount of time to develop the games. This almos
 
 Controls:
 
-▶️ = Left
+&larr; = Left
 
-◀️ = Right
+&rarr; = Right
 
-🔼 = Up
+&uarr; = Up
 
-🔽 = Down
+&darr; = Down
 
 SPACE = Jump
 
