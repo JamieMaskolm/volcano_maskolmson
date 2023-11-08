@@ -1,5 +1,5 @@
 # volcano_maskolmson
-*2D Action/Adventure and Platformer Game*
+***2D Action/Adventure and Platformer Game***
 
 <a href="https://imgur.com/xhBLXri"><img src="https://i.imgur.com/xhBLXril.png" title="source: imgur.com" /></a>
 
