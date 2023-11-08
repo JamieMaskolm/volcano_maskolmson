@@ -18,12 +18,12 @@ My team and I only had a limited amount of time to develop the games. This almos
 
 &darr; = Down
 
-**SPACE** = Jump
+SPACE = Jump
 
 
 
-We wish all those who try our game a lot of fun!
+*We wish all those who try our game a lot of fun!*
 
-Feel free to write us comments or give feedback if something is not working well so we can fix it.
+*Feel free to write us comments or give feedback if something is not working well so we can fix it.*
 
-Many thanks to our friends and all the others who have helped us with this project!
+*Many thanks to our friends and all the others who have helped us with this project!*
