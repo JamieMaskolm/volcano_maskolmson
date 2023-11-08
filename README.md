@@ -29,4 +29,7 @@ SPACE = Jump
 *Many thanks to our friends and all the others who have helped us with this project!*
 
 
-<a href="https://imgur.com/xhBLXri"><img src="https://i.imgur.com/xhBLXril.png" title="source: imgur.com" /></a>
+
+<img src="https://imgur.com/K2ex9wk" alt="Bild 1" style="float: left;">
+<img src="https://imgur.com/mXQMvcx" alt="Bild 2" style="float: left;">
+
