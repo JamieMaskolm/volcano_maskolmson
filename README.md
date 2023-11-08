@@ -29,4 +29,4 @@ SPACE = Jump
 *Many thanks to our friends and all the others who have helped us with this project!*
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xhBLXri" data-context="false" ><a href="//imgur.com/a/xhBLXri"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://imgur.com/xhBLXri"><img src="https://i.imgur.com/xhBLXris.png" title="source: imgur.com" /></a>
