@@ -2,18 +2,22 @@
 ***2D Action/Adventure and Platformer Game***
 
 <a href="https://imgur.com/xhBLXri"><img src="https://i.imgur.com/xhBLXril.png" title="source: imgur.com" /></a>
-
+<br>
+<br>
 
 **How was it created?**
 
-VOLCANO is a game that was created during my first semester at  University.
-We had to develop 2 polygon-like games in Python (Pygame) in the Software Development module.
+VOLCANO is a game that was created during my first semester at  University.<br>
+We had to develop 2 polygon-like games in Python (Pygame) in the Software Development module.<br>
 
-My team and I only had a limited amount of time to develop the games. 
-This almost meant that we couldn't finish the project before the deadline, 
-but we were still able to exceed our professor's expectations: 
-Not only did we create real animations (sprites) instead of floating pixels, 
-but we were even able to compose our own soundtrack for the game...
+My team and I only had a limited amount of time to develop the games. <br>
+This almost meant that we couldn't finish the project before the deadline, <br>
+but we were still able to exceed our professor's expectations: <br>
+Not only did we create real animations (sprites) instead of floating pixels, <br>
+but we were even able to compose our own soundtrack for the game...<br>
+<br>
+<br>
+<br>
 
 **Controls:**
 
