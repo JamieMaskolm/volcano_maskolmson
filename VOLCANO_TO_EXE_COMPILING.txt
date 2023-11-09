@@ -1,0 +1,20 @@
+
+
+*****************************
+*VOLCANO_ZU_EXE_KOMPILIERUNG*
+*****************************
+
+1) Um die Volcano Scripte zu einer .exe File zusammenzufassen
+   Muss man die "spiel1.py","spiel2.py" und "main.py" zu einer File zusammenfassen
+
+2) Bei auto-py-to-exe geht das mit "add additional" Files 
+
+3) Danach wenn die .exe fertig kompiliert ist, muss sie in den "app" Ordner eingefügt werden, indem sich die Datei-Abhängigkeiten befinden:
+
+   ---app
+	|- VOLCANO
+	|- SNAKE
+	|- Menü
+	|-"Purple Smile.ttf"
+	|-"scores.csv"
+	
